@@ -1,0 +1,333 @@
+.ifqi07sh2x1Icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 905px;
+  object-fit: cover;
+}
+.frameChild {
+  position: absolute;
+  top: 631px;
+  left: 1151px;
+  background-color: rgba(200, 200, 200, 0.43);
+  width: 632px;
+  height: 254px;
+}
+.itHasCapristo,
+.theTireUsed {
+  position: absolute;
+  top: 649px;
+  left: 459px;
+  font-size: var(--font-size-xs);
+  display: inline-block;
+  width: 134px;
+}
+.theTireUsed {
+  top: 465px;
+  left: 1174px;
+  width: 122px;
+}
+.ellipseDiv,
+.frameInner,
+.frameItem {
+  position: absolute;
+  top: 366px;
+  left: 1170px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  width: 15px;
+  height: 15px;
+}
+.ellipseDiv,
+.frameInner {
+  top: 550px;
+  left: 1013px;
+}
+.ellipseDiv {
+  top: 494px;
+  left: 746px;
+}
+.ferrari {
+  position: absolute;
+  top: 105px;
+  left: 53px;
+  font-size: 250px;
+  font-family: var(--font-italiana);
+}
+.ferrariSpaIs {
+  margin: 0;
+}
+.ferrariSpaIsContainer,
+.foundedIn1939Container {
+  position: absolute;
+  top: 400px;
+  left: 53px;
+  font-family: var(--font-jejumyeongjo);
+}
+.foundedIn1939Container {
+  top: 661px;
+  left: 1178px;
+}
+.frameChild1,
+.frameChild2,
+.frameChild3 {
+  position: absolute;
+  top: 359px;
+  left: 1163px;
+  border-radius: 50%;
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 30px;
+  height: 30px;
+}
+.frameChild2,
+.frameChild3 {
+  top: 543px;
+  left: 1006px;
+}
+.frameChild3 {
+  top: 487px;
+  left: 739px;
+}
+.frameChild4,
+.frameChild5,
+.lineIcon {
+  position: absolute;
+  top: 297.5px;
+  left: 1178.95px;
+  width: 127.59px;
+  height: 78.13px;
+}
+.frameChild4,
+.frameChild5 {
+  top: 480.75px;
+  left: 1021.95px;
+}
+.frameChild5 {
+  top: 507.6px;
+  left: 606.33px;
+  width: 146.77px;
+  height: 156.37px;
+}
+.frameChild6,
+.rectangleDiv {
+  border: 1px solid var(--color-white);
+  width: 162px;
+  height: 58px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 268px;
+  left: 1307px;
+  box-sizing: border-box;
+}
+.frameChild6 {
+  top: 451.25px;
+  left: 1150px;
+}
+.frameChild6,
+.frameChild7,
+.frameChild8 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.frameChild7 {
+  top: 635px;
+  left: 607px;
+  border: 1px solid var(--color-white);
+  width: 162px;
+  height: 58px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.frameChild8 {
+  top: 564px;
+  left: 53px;
+  border: 5px solid var(--color-white);
+  width: 307px;
+  height: 100px;
+}
+.startNow {
+  position: absolute;
+  top: 594px;
+  left: 104px;
+  font-family: var(--font-jejumyeongjo);
+}
+.arrowIcon,
+.lineDiv {
+  position: absolute;
+  top: 602.95px;
+  left: 298.95px;
+  width: 12.55px;
+  height: 22.09px;
+}
+.lineDiv {
+  top: 170.5px;
+  left: 1811.5px;
+  border-right: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 1px;
+  height: 662px;
+}
+.carboncarIcon,
+.carworld {
+  position: absolute;
+  top: 54px;
+}
+.carworld {
+  left: 99px;
+  font-family: var(--font-jomhuria);
+}
+.carboncarIcon {
+  left: 63px;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+}
+.theColorOf {
+  position: absolute;
+  top: 282px;
+  left: 1330px;
+  font-size: var(--font-size-xs);
+  display: inline-block;
+  width: 116px;
+}
+.explore,
+.products {
+  position: absolute;
+  top: 34px;
+  left: 1407px;
+  font-size: var(--font-size-xl);
+  line-height: 71px;
+  text-align: justify;
+}
+.explore {
+  left: 1250px;
+}
+.frameChild9 {
+  position: absolute;
+  top: 67.64px;
+  left: 1495.63px;
+  width: 14.73px;
+  height: 8.36px;
+}
+.contact {
+  position: absolute;
+  top: 34px;
+  left: 1586px;
+  font-size: var(--font-size-xl);
+  line-height: 71px;
+  text-align: justify;
+}
+.vectorIcon {
+  position: absolute;
+  height: 2.76%;
+  width: 1.3%;
+  top: 6.52%;
+  right: 7.81%;
+  bottom: 90.72%;
+  left: 90.89%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frameChild10,
+.frameChild11,
+.frameChild12 {
+  position: absolute;
+  top: 693px;
+  left: 1841px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  width: 42px;
+  height: 42px;
+}
+.frameChild11,
+.frameChild12 {
+  top: 761px;
+}
+.frameChild12 {
+  top: 828px;
+}
+.mdiinstagramIcon,
+.vectorIcon1,
+.vectorIcon2 {
+  position: absolute;
+  top: 701px;
+  left: 1849px;
+  width: 25px;
+  height: 25px;
+  overflow: hidden;
+}
+.vectorIcon1,
+.vectorIcon2 {
+  height: 2.1%;
+  width: 1.25%;
+  top: 85.3%;
+  right: 2.29%;
+  bottom: 12.6%;
+  left: 96.46%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.vectorIcon2 {
+  height: 2.43%;
+  width: 1.09%;
+  top: 92.6%;
+  right: 2.45%;
+  bottom: 4.97%;
+}
+.div {
+  position: absolute;
+  top: 738px;
+  left: 53px;
+  font-size: var(--font-size-xl);
+  line-height: 69px;
+  display: inline-block;
+  width: 92px;
+}
+.frameChild13,
+.frameChild14 {
+  position: absolute;
+  top: 812.5px;
+  left: 50.5px;
+  box-sizing: border-box;
+  height: 5px;
+}
+.frameChild13 {
+  border-top: 5px solid var(--color-white);
+  width: 366px;
+}
+.frameChild14 {
+  border-top: 5px solid #9b0a95;
+  width: 278px;
+}
+.frameChild15,
+.frameChild16,
+.frameChild17 {
+  position: absolute;
+  top: 850px;
+  left: 1663px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  width: 20px;
+  height: 20px;
+}
+.frameChild16,
+.frameChild17 {
+  left: 1703px;
+}
+.frameChild17 {
+  top: 851px;
+  left: 1743px;
+}
+.ifqi07sh2x1Parent {
+  position: relative;
+  width: 100%;
+  height: 905px;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
